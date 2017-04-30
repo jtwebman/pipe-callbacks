@@ -1,6 +1,6 @@
 {
   "name": "pipe-callbacks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A function to allow you to pipe callback functions.",
   "main": "src/pipe-callbacks.js",
   "scripts": {

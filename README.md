@@ -113,6 +113,6 @@ pipeCallbacks(
 ## Improvements
 
 I like writing functional javascript. If you have any improvements please feel
-free to open a issue or pull request.
+free to open an issue or pull request.
 
 Enjoy!

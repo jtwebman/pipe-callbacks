@@ -23,7 +23,7 @@ function handleError(rest, reject, resolve) {
  */
 function pipeCallbacks(...args) {
   if (args.length < 3) {
-    throw Error('Compose callback needs three functions at least');
+    throw new Error('Pipe callbacks needs three functions at least');
   }
 
   const resolve = args.pop();

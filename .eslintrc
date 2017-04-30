@@ -1,0 +1,17 @@
+extends: google
+env:
+  node: true
+  mocha: true
+parserOptions:
+  ecmaVersion: 6
+  sourceType: script
+  ecmaFeatures:
+    modules: false
+rules:
+  strict:
+    - error
+    - global
+  require-jsdoc: 0
+  comma-dangle:
+    - error
+    - never
